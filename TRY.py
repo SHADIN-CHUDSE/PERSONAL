@@ -1,2 +1,3 @@
 #!/bin/bash
-import XAICO
+import price
+price.main()
