@@ -1,3 +1,3 @@
 #!/bin/bash
-import price
+import FEEDBACK
 price.main()
